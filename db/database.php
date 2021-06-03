@@ -14,7 +14,7 @@ $albums =  [
         "titolo" => " Derelicts",
         "artista" => "Carbon Based Lifeforms",
         "anno" => "2017",
-        "copertina" => "",
+        "copertina" => "Derelicts.jpg",
         "genere" => "Psyambient",
         "daYoutube" => '<iframe width="560" height="315" src="https://www.youtube.com/embed/5o_uF1L5l6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     ],
@@ -28,9 +28,9 @@ $albums =  [
     ],
     [
         "titolo" => "Mer de Noms",
-        "artista" => "A perfect Circle",
+        "artista" => "A Perfect Circle",
         "anno" => "2000",
-        "copertina" => "",
+        "copertina" => "Mer_de_Noms.jpg",
         "genere" => "Metal",
         "daYoutube" => '<iframe width="560" height="315" src="https://www.youtube.com/embed/bQNQxwDVd1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     ],
@@ -54,7 +54,7 @@ $albums =  [
         "titolo" => "Melody Mountain",
         "artista" => "Kupla",
         "anno" => "2021",
-        "copertina" => "",
+        "copertina" => "Melody_Mountain.jpeg",
         "genere" => "Lo-Fi",
         "daYoutube" => '<iframe width="560" height="315" src="https://www.youtube.com/embed/vLqTRzobidk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     ],
@@ -68,6 +68,4 @@ $albums =  [
     ],
 
 ];
-
-
 ?>
